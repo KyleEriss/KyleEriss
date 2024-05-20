@@ -23,9 +23,7 @@ const kyle = {
 
 <em><b>Let's connect!</b></em>
 
-[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' height='40' width='40'>](https://www.linkedin.com/in/kyle-eriss/)
-
-[<img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' height='40' width='40'>](mailto:kyle.eriss@gmail.com)
+[<img src='https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg' height='40' width='40'>](https://www.linkedin.com/in/kyle-eriss/)  [<img src='https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg' height='40' width='40'>](mailto:kyle.eriss@gmail.com)
 
 ---
 
