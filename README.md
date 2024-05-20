@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kyle 👋 </h2>
-
+<img align='right' src="github-readme-photo.jpg" width="230">
 <p><em>I'm currently a Full Stack Developer building a site for <a href="https://preferred-rentals.vercel.app/">Preferred Rentals</a></em></p>
 
 [![Linkedin: Kyle Eriss](https://img.shields.io/badge/Kyle-Eriss?style=plastic&logo=Linkedin&logoColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkyle-eriss%2F)](https://www.linkedin.com/in/kyle-eriss/)
@@ -7,7 +7,7 @@
 )](https://github.com/KyleEriss)
 
 
-A little more about me...  
+A little about me...  
 
 ```javascript
 const kyle = {
@@ -15,8 +15,8 @@ const kyle = {
   tools: [React, Angular, Node, PostgreSQL, MongoDB, AWS, Terraform, Docker],
   architecture: ["microservices", "event-driven", "layered", "client-server"],
   miscellaneous: {
-                        interests: ["design patterns", "UI", "performance optimization", "networking with other devs"],
-                        hobbies: ["hiking/camping with my dog", "exploring new places on my motorcycle"],
+                        interests: ["design patterns", "UI", "networking with other devs"],
+                        hobbies: ["hiking/camping with my dog", "exploring new places"],
                       }
 }
 ```
